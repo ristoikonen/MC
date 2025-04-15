@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PVHWO9nzx80=",
+  "dgSpecHash": "TwViVpEljD8=",
   "success": true,
   "projectFilePath": "C:\\Users\\risto\\source\\repos\\MC\\MC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\risto\\.nuget\\packages\\microsoft.extensions.ai\\9.4.0-preview.1.25207.5\\microsoft.extensions.ai.9.4.0-preview.1.25207.5.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.4.0-preview.1.25207.5\\microsoft.extensions.ai.abstractions.9.4.0-preview.1.25207.5.nupkg.sha512",
+    "C:\\Users\\risto\\.nuget\\packages\\microsoft.extensions.ai.ollama\\9.4.0-preview.1.25207.5\\microsoft.extensions.ai.ollama.9.4.0-preview.1.25207.5.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.4\\microsoft.extensions.caching.abstractions.9.0.4.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.configuration.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
@@ -18,6 +19,7 @@
     "C:\\Users\\risto\\.nuget\\packages\\modelcontextprotocol\\0.1.0-preview.8\\modelcontextprotocol.0.1.0-preview.8.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\modelcontextprotocol.aspnetcore\\0.1.0-preview.8\\modelcontextprotocol.aspnetcore.0.1.0-preview.8.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0-preview.3.25171.5\\system.diagnostics.diagnosticsource.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\risto\\.nuget\\packages\\system.net.http.json\\9.0.4\\system.net.http.json.9.0.4.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\system.net.serversentevents\\10.0.0-preview.2.25163.2\\system.net.serversentevents.10.0.0-preview.2.25163.2.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\system.text.json\\9.0.4\\system.text.json.9.0.4.nupkg.sha512",
     "C:\\Users\\risto\\.nuget\\packages\\system.threading.channels\\9.0.4\\system.threading.channels.9.0.4.nupkg.sha512"

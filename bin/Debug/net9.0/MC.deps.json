@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "MC/1.0.0": {
         "dependencies": {
+          "Microsoft.Extensions.AI": "9.4.0-preview.1.25207.5",
+          "Microsoft.Extensions.AI.Ollama": "9.4.0-preview.1.25207.5",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0-preview.3.25171.5",
           "Microsoft.Extensions.Hosting.Abstractions": "10.0.0-preview.3.25171.5",
           "Microsoft.Extensions.Primitives": "10.0.0-preview.3.25171.5",
@@ -37,6 +39,19 @@
       "Microsoft.Extensions.AI.Abstractions/9.4.0-preview.1.25207.5": {
         "runtime": {
           "lib/net9.0/Microsoft.Extensions.AI.Abstractions.dll": {
+            "assemblyVersion": "9.4.0.0",
+            "fileVersion": "9.400.25.20705"
+          }
+        }
+      },
+      "Microsoft.Extensions.AI.Ollama/9.4.0-preview.1.25207.5": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "9.4.0-preview.1.25207.5",
+          "System.Net.Http.Json": "9.0.4",
+          "System.Text.Json": "9.0.4"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.AI.Ollama.dll": {
             "assemblyVersion": "9.4.0.0",
             "fileVersion": "9.400.25.20705"
           }
@@ -177,6 +192,14 @@
           }
         }
       },
+      "System.Net.Http.Json/9.0.4": {
+        "runtime": {
+          "lib/net9.0/System.Net.Http.Json.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.425.16305"
+          }
+        }
+      },
       "System.Net.ServerSentEvents/10.0.0-preview.2.25163.2": {
         "runtime": {
           "lib/net9.0/System.Net.ServerSentEvents.dll": {
@@ -222,6 +245,13 @@
       "sha512": "sha512-CptQvHk8wY+qb+AA3SoKlc5NQcXSoFNbt8Z+bAkt/tEZ61JMxFZ0dMG1AwCn14hRCUinFbxyPYXr5Zrjp99m3g==",
       "path": "microsoft.extensions.ai.abstractions/9.4.0-preview.1.25207.5",
       "hashPath": "microsoft.extensions.ai.abstractions.9.4.0-preview.1.25207.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.AI.Ollama/9.4.0-preview.1.25207.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dFGHDn8l406uAhjCrQHso6rRCr+Y8iYcaOfORBn+Z17+CYuD3qJOueJgMzxc95pdXeRA5tiW//bvHd2TUc0xzA==",
+      "path": "microsoft.extensions.ai.ollama/9.4.0-preview.1.25207.5",
+      "hashPath": "microsoft.extensions.ai.ollama.9.4.0-preview.1.25207.5.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/9.0.4": {
       "type": "package",
@@ -306,6 +336,13 @@
       "sha512": "sha512-9L8NSNLkx41IYLSi+XuaKnr1m5XnpuSmxoy2ZEeGu7jKv1zox8CzwmF0j4DmTpMkuMXN64XJT3qsWMy7RtIBEg==",
       "path": "system.diagnostics.diagnosticsource/10.0.0-preview.3.25171.5",
       "hashPath": "system.diagnostics.diagnosticsource.10.0.0-preview.3.25171.5.nupkg.sha512"
+    },
+    "System.Net.Http.Json/9.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t34SoSx8l/O5kv7IwYXENjQOTpVKFkH3ydZejcZCsNsymthJrdCguvHFcbP3ayeBOXdm4Bq8bhmVGCgr0RXIQg==",
+      "path": "system.net.http.json/9.0.4",
+      "hashPath": "system.net.http.json.9.0.4.nupkg.sha512"
     },
     "System.Net.ServerSentEvents/10.0.0-preview.2.25163.2": {
       "type": "package",

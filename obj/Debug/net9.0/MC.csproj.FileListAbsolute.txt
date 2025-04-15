@@ -32,3 +32,6 @@ C:\Users\risto\source\repos\MC\obj\Debug\net9.0\MC.pdb
 C:\Users\risto\source\repos\MC\obj\Debug\net9.0\MC.genruntimeconfig.cache
 C:\Users\risto\source\repos\MC\obj\Debug\net9.0\ref\MC.dll
 C:\Users\risto\source\repos\MC\bin\Debug\net9.0\MC.dll.config
+c:\Users\risto\source\repos\MC\obj\Debug\net9.0\MC.sourcelink.json
+c:\Users\risto\source\repos\MC\bin\Debug\net9.0\Microsoft.Extensions.AI.Ollama.dll
+c:\Users\risto\source\repos\MC\bin\Debug\net9.0\System.Net.Http.Json.dll
