@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\risto\\source\\repos\\MC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|c:\\users\\risto\\source\\repos\\mc\\monkeytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|solutionrelative:monkeytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|c:\\users\\risto\\source\\repos\\mc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|c:\\users\\risto\\source\\repos\\mc\\monkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|solutionrelative:monkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|c:\\users\\risto\\source\\repos\\mc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|c:\\users\\risto\\source\\repos\\mc\\echotool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30AF7A1-3133-4792-8C55-CA943E6E8698}|MC.csproj|solutionrelative:echotool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonkeyTools.cs",
+              "DocumentMoniker": "C:\\Users\\risto\\source\\repos\\MC\\MonkeyTools.cs",
+              "RelativeDocumentMoniker": "MonkeyTools.cs",
+              "ToolTip": "C:\\Users\\risto\\source\\repos\\MC\\MonkeyTools.cs",
+              "RelativeToolTip": "MonkeyTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:49:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonkeyService.cs",
+              "DocumentMoniker": "C:\\Users\\risto\\source\\repos\\MC\\MonkeyService.cs",
+              "RelativeDocumentMoniker": "MonkeyService.cs",
+              "ToolTip": "C:\\Users\\risto\\source\\repos\\MC\\MonkeyService.cs",
+              "RelativeToolTip": "MonkeyService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:47:46.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\risto\\source\\repos\\MC\\app.config",
+              "RelativeDocumentMoniker": "app.config",
+              "ToolTip": "C:\\Users\\risto\\source\\repos\\MC\\app.config",
+              "RelativeToolTip": "app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-14T23:46:31.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EchoTool.cs",
+              "DocumentMoniker": "C:\\Users\\risto\\source\\repos\\MC\\EchoTool.cs",
+              "RelativeDocumentMoniker": "EchoTool.cs",
+              "ToolTip": "C:\\Users\\risto\\source\\repos\\MC\\EchoTool.cs",
+              "RelativeToolTip": "EchoTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:42:09.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\risto\\source\\repos\\MC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\risto\\source\\repos\\MC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:37:23.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

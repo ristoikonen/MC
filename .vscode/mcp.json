@@ -1,0 +1,15 @@
+{
+    "inputs": [],
+    "servers": {
+        "MC": 
+        {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:\\Users\\risto\\source\\repos\\MC\\MC.csproj"
+            ]
+        }
+    }
+}
